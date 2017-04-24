@@ -1,0 +1,30 @@
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Crack2017.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\obj\Debug\Crack2017.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\obj\Debug\Crack2017.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\obj\Debug\Crack2017.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\obj\Debug\Crack2017.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Crack2017.exe
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Crack2017.pdb
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Tao.FreeGlut.dll
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Tao.OpenGl.dll
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Tao.Platform.Windows.dll
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Tao.FreeGlut.xml
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Tao.OpenGl.xml
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\bin\Debug\Tao.Platform.Windows.xml
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\obj\Debug\Crack2017.exe
+c:\users\user\documents\visual studio 2015\Projects\Crack2017\Crack2017\obj\Debug\Crack2017.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Crack2017.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\obj\Debug\Crack2017.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\obj\Debug\Crack2017.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Crack2017.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Crack2017.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Tao.FreeGlut.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Tao.OpenGl.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Tao.FreeGlut.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Tao.OpenGl.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\obj\Debug\Crack2017.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\obj\Debug\Crack2017.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\obj\Debug\Crack2017.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Работает меняем\Crack2017\Crack2017\obj\Debug\Crack2017.csproj.GenerateResource.Cache
